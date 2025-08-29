@@ -1,7 +1,5 @@
 # 👋 Hey, I'm Ilan  
 
-# 👋 Hey, I'm Ilan  
-
 💻 Développeur **Front-End** spécialisé en **React, Next.js & TypeScript**, avec une forte sensibilité à l’**expérience utilisateur** et à la **qualité du code**.  
 🌍 Je conçois des applications **accessibles, performantes et éco-conçues**, en intégrant les bonnes pratiques de **Green IT** et d’**accessibilité (a11y)** dès la phase de développement.  
 🤖 Passionné par l’**innovation**, j’explore également les usages de l’**IA appliquée au web** afin de créer des solutions plus intelligentes et utiles.  

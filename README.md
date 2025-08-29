@@ -1,9 +1,13 @@
 # 👋 Hey, I'm Ilan  
 
-💻 **Front-End Developer** spécialisé en **React, Next.js & TypeScript**  
-🌍 Passionné par l’**accessibilité**, l’**éco-conception web** et l’**IA appliquée**  
-🎯 Objectif : Devenir un expert front-end et construire des applications performantes & durables  
+# 👋 Hey, I'm Ilan  
 
+💻 Développeur **Front-End** spécialisé en **React, Next.js & TypeScript**, avec une forte sensibilité à l’**expérience utilisateur** et à la **qualité du code**.  
+🌍 Je conçois des applications **accessibles, performantes et éco-conçues**, en intégrant les bonnes pratiques de **Green IT** et d’**accessibilité (a11y)** dès la phase de développement.  
+🤖 Passionné par l’**innovation**, j’explore également les usages de l’**IA appliquée au web** afin de créer des solutions plus intelligentes et utiles.  
+🎯 Mon objectif : devenir un **expert front-end reconnu**, capable de concevoir et livrer des produits numériques **scalables, maintenables et durables**, tout en mettant la **technologie au service des utilisateurs**.  
+✨ Actuellement, je développe mon projet **Ayve Studio**, une agence digitale spécialisée dans la création de sites vitrines, e-commerce et applications, avec une approche **sobriété technologique & accessibilité**.
+ 
 ---
 
 ## 🚀 Tech Stack
@@ -22,11 +26,11 @@
 
 ## 📂 Featured Projects
 
-### 🔹 [Candify](https://github.com/...)  
+### 🔹 [Candify](https://github.com/...](https://github.com/Ilan916/Candify))  
 Plateforme SaaS avec authentification – **Next.js, PostgreSQL, BetterAuth**  
 ➡️ Création et gestion de comptes avec login Google & email/password  
 
-### 🔹 [Ayve Studio]([https://github.com/...](https://github.com/Ilan916/ayve))  
+### 🔹 [Ayve Studio](https://github.com/...](https://github.com/Ilan916/ayve))  
 Sites vitrines éco-conçus pour entreprises locales – **Astro, Tailwind**  
 ➡️ Accessibilité, performance et design épuré au service des clients  
 

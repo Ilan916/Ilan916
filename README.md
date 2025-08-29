@@ -34,7 +34,6 @@ Sites vitrines éco-conçus pour entreprises locales – **Astro, Tailwind**
 
 ## 📊 GitHub Stats
 ![Ilan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ilan916&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ilan916&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilan916&layout=compact&theme=radical)
 
 ---

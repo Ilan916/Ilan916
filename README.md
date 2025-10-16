@@ -28,7 +28,7 @@
 Plateforme SaaS avec authentification – **Next.js, PostgreSQL, BetterAuth**  
 ➡️ Création et gestion de comptes avec login Google & email/password  
 
-### 🔹 [Ayve Studio](https://github.com/Ilan916/ayve](https://github.com/Ilan916/ayve))  
+### 🔹 [Ayve Studio](https://github.com/Ilan916/ayve)  
 Sites vitrines éco-conçus pour entreprises locales – **Astro, Tailwind**  
 ➡️ Accessibilité, performance et design épuré au service des clients  
 
